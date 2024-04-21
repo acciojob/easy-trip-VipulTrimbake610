@@ -10,6 +10,8 @@ public class Passenger {
 
     private int age;
 
+
+
     public Passenger() {
 
     }
